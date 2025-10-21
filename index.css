@@ -2,6 +2,7 @@
     background-image: url(pxfuel.jpg);
   }
   p{
+    padding: 2em;
     color: white;
     border-style: solid;
     border-color: white;
@@ -9,13 +10,15 @@
     background-color: rgba(0, 0, 0, 180);
   }
   h1{
+    padding: 2em;
     color: white;
     border-style: solid;
     border-color: white;
     border-radius: 3px;
     background-color: rgba(0, 0, 0, 180);
   }
-a{
+  a{
+   padding: 2em;
     color: white;
     border-style: solid;
     border-color: white;
