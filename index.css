@@ -1,12 +1,21 @@
   body{
-    background-color: black;
+    background-image: url(pxfuel.jpg);
   }
   p{
     color: white;
+    border-style: solid;
+    border-color: white;
+    background-color: rgba(0, 0, 0, 180);
   }
   h1{
     color: white;
+    border-style: solid;
+    border-color: white;
+    background-color: rgba(0, 0, 0, 180);
   }
 a{
-  color: white;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    background-color: rgba(0, 0, 0, 180);
 }
