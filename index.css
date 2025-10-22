@@ -4,6 +4,10 @@
 h1{
   color: white;
 }
+hr{
+  background-color: white;
+  max-height: 3px;
+}
 a{
   color: white;
 }
