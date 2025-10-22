@@ -1,32 +1,20 @@
   body{
     background-image: url(pxfuel.jpg);
   }
-  p{
-    padding: 2em;
-    color: white;
-    border-style: solid;
-    border-color: white;
-    border-radius: 8px;
-    background-color: rgba(0, 0, 0, 180);
-  }
-  h1{
-    padding: 2em;
-    color: white;
-    border-style: solid;
-    border-color: white;
-    border-radius: 8px;
-    background-color: rgba(0, 0, 0, 180);
-  }
-  a{
-   padding: 2em;
-    color: white;
-    border-style: solid;
-    border-color: white;
-    border-radius: 8px;
-    background-color: rgba(0, 0, 0, 180);
+h1{
+  color: white;
+}
+a{
+  color: white;
+}
+p{
+  color: white;
+}
+h2{
+  color: white;
 }
 info{
-     padding: 2em;
+    padding: 2em;
     color: white;
     border-style: solid;
     border-color: white;
