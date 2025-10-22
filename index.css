@@ -6,7 +6,7 @@
     color: white;
     border-style: solid;
     border-color: white;
-    border-radius: 3px;
+    border-radius: 8px;
     background-color: rgba(0, 0, 0, 180);
   }
   h1{
@@ -14,7 +14,7 @@
     color: white;
     border-style: solid;
     border-color: white;
-    border-radius: 3px;
+    border-radius: 8px;
     background-color: rgba(0, 0, 0, 180);
   }
   a{
@@ -22,7 +22,7 @@
     color: white;
     border-style: solid;
     border-color: white;
-    border-radius: 3px;
+    border-radius: 8px;
     background-color: rgba(0, 0, 0, 180);
 }
 info{
@@ -30,6 +30,6 @@ info{
     color: white;
     border-style: solid;
     border-color: white;
-    border-radius: 3px;
+    border-radius: 8px;
     background-color: rgba(0, 0, 0, 180);
 }
