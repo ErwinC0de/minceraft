@@ -28,3 +28,6 @@ info{
     border-radius: 8px;
     background-color: rgba(0, 0, 0, 180);
 }
+list{
+  background-image: url(cobbleback.png);
+}
