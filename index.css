@@ -20,7 +20,7 @@ h2{
 marquee{
   color:white;
 }
-info{
+.info{
     padding: 2em;
     color: white;
     border-style: solid;
@@ -28,6 +28,6 @@ info{
     border-radius: 8px;
     background-color: rgba(0, 0, 0, 180);
 }
-list{
+.list{
   background-image: url(cobbleback.png);
 }
