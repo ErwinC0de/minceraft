@@ -26,7 +26,7 @@ marquee{
     border-style: solid;
     border-color: white;
     border-radius: 8px;
-    background-color: rgba(0, 0, 0, 180);
+    background-image: url(cobbleback.png);
 }
 .list{
   background-image: url(cobbleback.png);
