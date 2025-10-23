@@ -21,11 +21,6 @@ marquee{
   color:white;
 }
 .info{
-    padding: 2em;
-    color: white;
-    border-style: solid;
-    border-color: white;
-    border-radius: 8px;
     background-image: url(cobbleback.png);
 }
 .list{
